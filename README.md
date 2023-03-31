@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sourin Ghosh</h1>
 <h3 align="center">I am pursuing B.Tech from University Of Engineering And Management, Kolkata. Aspiring project on new topic, Programmer, I love modern technologies.....</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FCode.org&psig=AOvVaw39AGalNK201HzaMpOci3Xr&ust=1680334428258000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCJDM-djThf4CFQAAAAAdAAAAABAE"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gsourin&label=Profile%20views&color=0e75b6&style=flat" alt="gsourin" /> </p>
 
