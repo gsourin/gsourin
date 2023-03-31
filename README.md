@@ -1,15 +1,13 @@
+<img alt="coding" width="100%" height="300px" src="https://www.assignmentexpert.com/blog/wp-content/uploads/2019/10/hardest-programming-language.png">
 <h1 align="center">Hi 👋, I'm Sourin Ghosh</h1>
 <h3 align="center">I am pursuing B.Tech from University Of Engineering And Management, Kolkata. Aspiring project on new topic, Programmer, I love modern technologies.....</h3>
-
-<img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/Xewa8pwHHvzheQFKDD/giphy.gif">
-
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gsourin&label=Profile%20views&color=0e75b6&style=flat" alt="gsourin" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gsourin" alt="gsourin" /></a> </p>
 
-- 📫 How to reach me **mr.souringhosh@gmail.com**
+- 📫 How to reach me mr.souringhosh@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -24,4 +22,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gsourin&show_icons=true&locale=en" alt="gsourin" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gsourin&" alt="gsourin" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gsourin&" alt="gsourin" /></p>
